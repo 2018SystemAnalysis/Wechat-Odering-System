@@ -21,4 +21,5 @@
 - 项目经理总结陈词（分派任务）
 
 ## 记录会议"思维导图"
-
+​![lych])(Wechat-Odering-System/assets/images/lych思维导图.png)
+by lych
