@@ -21,5 +21,5 @@
 - 项目经理总结陈词（分派任务）
 
 ## 记录会议"思维导图"
-​![lych](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/lych思维导图.png)
+​![lych](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/lych.png)
 by lych
