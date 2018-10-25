@@ -23,3 +23,6 @@
 ## 记录会议"思维导图"
 ​![lych](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/lych.png)
 by lych
+
+​![lanhsh](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/lanhsh.png)
+by lanhsh
