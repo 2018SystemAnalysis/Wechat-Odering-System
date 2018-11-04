@@ -22,6 +22,7 @@
 
 ## 记录会议"思维导图"
 ​![fjc](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/fjc_report_1.png)
+by fjc
 
 ​![lych](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/lych.png)
 by lych
