@@ -70,4 +70,4 @@
 
 by fjc
 
-![fjc report 2](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/images)
+![fjc report 2](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/fjc_report_2.png)
