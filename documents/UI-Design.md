@@ -18,3 +18,18 @@
 ​![itemshow choose](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/UI_itemshow1.png)
 ​![itemshow reviews](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/UI_itemshow2.png)
 
+
+
+#### 迭代2
+
+##### Week 11(14/11/2018)
+本周完成订单详情页面显示
+​![order_details1](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/order_check.png)
+​![order_details2](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/order_take.png)
+​![order_details3](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/order_done.png)
+​![order_details4](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/order_list.png)
+
+
+##### Week 12(21/11/2018)
+本周完成会员界面显示
+​![order_details4](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/mine.png)
