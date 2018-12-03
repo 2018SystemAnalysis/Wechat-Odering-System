@@ -71,3 +71,7 @@
 by fjc
 
 ![fjc report 2](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/fjc_report_2.png)
+
+by lanhsh
+
+![lhs report 2](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/lhs_report_2.png)
