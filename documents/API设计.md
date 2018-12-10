@@ -25,19 +25,31 @@
 
 ## 评论功能的接口(commit)
 'GET /getcommentList' 获取评论列表
+
 'POST /addComment' 添加评论
+
 'GET /getcomment' 获取具体评论
+
 
 ## 与订单相关的接口（order）
 'POST /addOrder' 下单
+
 'GET /getMyOrderList' 获取我的订单
+
 'GET /getMyOrderDetail' 获取订单详情
+
 'POST /printfOrder' 打印
+
 'GET /catchMsg' 向用户发送取餐消息通知
+
 
 ## 与优惠劵相关（reduction）
 'GET /getUserCanUseReductionList' 获取用户可领取的优惠券列表
+
 'GET /getCut' 领取优惠券
+
 'GET /getCutList' 用户所有优惠券列表
+
 'GET /useCut' 使用优惠券
+
 
