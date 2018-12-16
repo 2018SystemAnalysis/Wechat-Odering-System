@@ -4,7 +4,7 @@
 }
 .list-left-menu{
   width:160rpx;
-  font-size:28rpx;
+  font-size:26rpx;
   position: absolute;
   left:0px;
   z-index: 10;
@@ -19,8 +19,8 @@
 .list-left-menu-box-selected{
   padding:10rpx;
   height:72rpx;
-  color: #FF9C35;
-  border-left:3px solid #FF9C35;
+  color: #E53085;
+  border-left:3px solid #E53085;
   background:white;
 }
 
@@ -45,6 +45,24 @@
   display:flex;
   border-bottom: 1px solid #E3E3E3;
 }
+.comment-list{
+  padding: 20rpx;
+  color: #666;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  border-bottom: 1px solid #E3E3E3;
+}
+.comment-date{
+  color:#999;
+  font-size:28rpx;
+  display: flex;
+}
+.comment-content{
+  display:flex;
+  color: #333;
+  font-size:26rpx;
+}
 .list-image{
   width:108rpx;
   margin-top:16rpx;
@@ -56,14 +74,14 @@
 }
 .plus-icon{
   float:right;
-  color:#FF9C35;
+  color:#E53085;
   font-size:46rpx;
 }
 .operate-bar{
   z-index: 1001; 
   position: absolute;
   bottom: 0px;
-  height:55px;
+  height:110rpx;
   width:100%;
   display: flex;
 }
@@ -82,8 +100,8 @@
 .number-msg{
   padding: 1px 7px;
   border-radius:50%;
-  background:red;
-  color:white;
+  background:white;
+  color:red;
   font-size:14px;
   position: absolute;
   text-align: center;
@@ -165,12 +183,12 @@
   z-index:1002;
 }
 .select-active{
-  color:#FF9C35;
-  border:1px solid #FF9C35;
+  color:#E53085;
+  border:1px solid #E53085;
 }
 .select-price{
   font-size:14px;
-  color:#FF9C35;
+  color:#E53085;
   margin-top:20px;
   display:flex;
   align-items: center;
@@ -180,26 +198,26 @@
   height:40px;
   width:100px;
   font-size:14px;
-  background:#FF9C35;
+  background:#E53085;
   color:white;
   margin-right:20px;
 }
 
 
 .activity-color{
-  color:#FF9C35;
+  color:#E53085;
 }
 .color-white{
   color:white;
 }
 .activity-color-bg{
-  background:#FF9C35;
+  background:#E53085;
 }
 
 .label-cart-bar{
   color:#878787;
   font-size:12px;
-  border-left:4px solid #FF9C35;
+  border-left:4px solid #E53085;
   margin-left: 20px;
 }
 .icon-clear{
@@ -238,7 +256,7 @@
   height:20px; 
   position: fixed;
   bottom:55px;
-  background:#FFCD9B;
+  background:#E53085;
   width:100%;
   color:#FFF7EC;
   font-size:12px;
