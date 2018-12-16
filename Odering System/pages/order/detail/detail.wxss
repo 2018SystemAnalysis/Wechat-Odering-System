@@ -4,7 +4,7 @@ page{
 }
 .card-fetch{
   width:40px;
-  background:#DE5F4B;
+  background:#E53085;
   height:100px;
   font-size:14px;
   color:white;
@@ -47,7 +47,7 @@ page{
   color:#B1B1B1;
 }
 .activity-color{
-  color:#FF9C35;
+  color:#E53085;
 }
 .cart-list-box{
   background:#FFFFFF;
@@ -57,8 +57,8 @@ page{
 }
 .note-exchange{
   padding:3px 5px;
-  border:1px solid #FF9C35;
-  color:#FF9C35;
+  border:1px solid #E53085;
+  color:#E53085;
   font-size:16px
 }
 .order-info-li{
@@ -73,7 +73,7 @@ page{
 }
 .statu-card{
   font-size:12px;
-  color:#FF9C35
+  color:#E53085
 }
 .number-card{
   font-size:28px;
@@ -81,4 +81,23 @@ page{
 }
 .go-top-10{
   margin-top:10px
+}
+.order-cut{
+  height:30px;
+  padding:5px 15px;
+  border-bottom: 1px #E3E3E3 solid;
+}
+.order-cut-dec{
+  background:#F07474;
+  font-size:13px;
+  color:white;
+  padding:2px
+}
+.order-cut-note{
+  margin-left:3px;
+  font-size:14px
+}
+.order-cut-number{
+  font-size:14px;
+  float:right;
 }
