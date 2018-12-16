@@ -25,8 +25,8 @@ page{
 .number-msg{
   padding: 1px 7px;
   border-radius:50%;
-  background:red;
-  color:white;
+  background:white;
+  color:red;
   font-size:14px;
   position: absolute;
   text-align: center;
@@ -53,17 +53,17 @@ page{
   margin:auto;
 }
 .activity-color{
-  color:#FF9C35;
+  color:#E53085;
 }
 .submit-btn{
   height:100%;
-  background:#F7F7F7;
+  background:#E53085;
   width:25%;
   display:flex;
 }
 
 .activity-color-bg{
-  background:#FF9C35;
+  background:#E53085;
 }
 
 .cart-list-box{
