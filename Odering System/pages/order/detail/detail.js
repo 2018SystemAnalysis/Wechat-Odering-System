@@ -1,4 +1,5 @@
 // pages/order/detail/detail.js
+const app = getApp()
 Page({
 
   /**
@@ -8,7 +9,13 @@ Page({
     cartList: [],
     sumMonney: 0,
     cutMonney: 0,
-    cupNumber: 0
+    cupNumber: 0,
+    orderId:"",
+    cathNumber:"",
+    time:"",
+    model: 0,//1是预约模式  0是到店模式
+    appointTime: "",
+    status:1,
   },
 
   /**
@@ -18,14 +25,35 @@ Page({
     wx.setNavigationBarTitle({
       title: '订单详情'
     })
-    this.setData({
-      cartList: wx.getStorageSync('cartList'),
-      sumMonney: wx.getStorageSync('sumMonney'),
-      cutMonney: wx.getStorageSync('sumMonney') > 19 ? 3 : 0,
-      cupNumber: wx.getStorageSync('cupNumber'),
+    
+    this.getMyOrderDetail(options.orderId)
+   
+  },
+  //获取订单详情
+  getMyOrderDetail:function(id){
+    var that = this;
+    wx.request({
+      url: app.globalData.apiHost +'/getMyOrderDetail?openid=' + wx.getStorageSync('openId')+"&orderId="+id, //获取订单详情
+      header: {
+        'content-type': 'application/json'
+      },
+      success: function (res) {
+        console.log(res.data.data.status)
+        that.setData({
+          model: res.data.data.model,
+          appointTime: res.data.data.appointTime,
+          cathNumber: res.data.data.cathNumber,
+          cartList: JSON.parse(res.data.data.cartList),
+          sumMonney: res.data.data.sumMoney,
+          cutMonney: res.data.data.cutMonney ,
+          cupNumber: res.data.data.cupNumber,
+          orderId: res.data.data.orderId,
+          time: res.data.data.time,
+          status:res.data.data.status
+        })
+      }
     })
   },
-
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
