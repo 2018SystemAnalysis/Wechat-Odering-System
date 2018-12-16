@@ -2,7 +2,8 @@
 <view>
   <view class='top-bar'>
     <label class='top-left-label'>取餐时间</label>
-    <label class='top-right-label activity-color'>饮品制作中，尽快为你服务</label>
+    <label wx:if="{{model==0}}" class='top-right-label activity-color'>饮品制作中，尽快为你服务</label>
+    <label wx:if="{{model==1}}" class='top-right-label activity-color'>{{appointTime}}</label>
   </view>
   <!-- 订单详情 -->
   <view class='order-info'>
@@ -19,11 +20,11 @@
         </view>
       </view>
     </view>
-    <view class='order-cut' wx:if="{{cutMonney!=0}}">
+     <view class='order-cut' wx:if="{{cutMonney!=0}}">
       <label class='order-cut-dec'>减</label>
-      <label class='order-cut-note'>满20元立减3元</label>
-      <label class='order-cut-number activity-color'>-¥ 3.00</label>
-    </view>
+      <label class='order-cut-note'>{{cutText}}</label>
+      <label class='order-cut-number activity-color'>-¥ {{cutMonney}}.00</label>
+    </view> 
     <view class='order-sum'>
       <label>总计 </label>
       <label class='order-sum-number activity-color'>¥ {{sumMonney-cutMonney}}</label>
@@ -32,7 +33,7 @@
 <!-- 备注 -->
   <view class='note'>
     <label style='font-size:13px;color:#A3A3A3'>备注</label>
-    <textarea placeholder='默认常温，常规糖，如有口味要求，请输入备注' class='note-text'></textarea>
+    <textarea placeholder='默认常温，常规糖，如有口味要求，请输入备注' class='note-text' bindblur="note"></textarea>
   </view>
 <!-- 底部操作栏 -->
   <view class="operate-bar">
