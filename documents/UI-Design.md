@@ -59,9 +59,9 @@
 
 本周继续修改饮品的详情显示界面，根据会议结果，由于用户在点击某个饮品查看详细信息的时候，会更希望内容的展现形式是弹窗，毕竟切换到另一个界面会使得用户需要点击返回才能看到菜单，界面的切换总是会比较耗时，影响用户体验，因此将饮品的详情界面展示方式修改为弹窗式。
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_itemshow1-v2.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_itemshow1_v2.png)
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_itemshow2-v2.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_itemshow2_v2.png)
 
 
 
