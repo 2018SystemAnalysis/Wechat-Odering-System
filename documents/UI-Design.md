@@ -15,7 +15,7 @@
 本周完成的是小程序菜单显示的设计，需要显示的信息包括：饮品图片、饮品名称
 下面是首页的设计。
 
-![menu](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_menu.png)
+![menu](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_menu.png)
 
 
 
@@ -23,8 +23,8 @@
 
 本周完成单品的详情页面显示
 
-![itemshow choose](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_itemshow1.png)
-![itemshow reviews](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_itemshow2.png)
+![itemshow choose](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_itemshow1.png)
+![itemshow reviews](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_itemshow2.png)
 
 
 
@@ -33,10 +33,10 @@
 ##### Week 11(14/11/2018)
 本周完成订单详情页面显示界面，应该显示的基本内容包括：购物车的每一个饮品名称、饮品价格、饮品规格、饮品数量、最后的总金额以及用户备注信息。在用户付款完成后，还需要显示订单编号、订单时间。
 
-![order_details1](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_order_check.png)
-![order_details2](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_order_take.png)
-![order_details3](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_order_done.png)
-![order_details4](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_order_list.png)
+![order_details1](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_order_check.png)
+![order_details2](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_order_take.png)
+![order_details3](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_order_done.png)
+![order_details4](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_order_list.png)
 
 
 
@@ -44,15 +44,14 @@
 
 本周完成会员界面显示，显示的基本内容包括用户的个人昵称、已获得的积分、本店基本信息、客服电话等。
 
-![order_mine](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_mine.png)
-
+![order_mine](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_mine.png)
 
 
 ##### Week 13(28/11/2018)
 
 本周完成所有界面的UI初始设计，根据会议意见，主页设计很是生硬，因此修改主页设计。
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_home-v2.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_home_v2.png)
 
 
 
@@ -60,9 +59,9 @@
 
 本周继续修改饮品的详情显示界面，根据会议结果，由于用户在点击某个饮品查看详细信息的时候，会更希望内容的展现形式是弹窗，毕竟切换到另一个界面会使得用户需要点击返回才能看到菜单，界面的切换总是会比较耗时，影响用户体验，因此将饮品的详情界面展示方式修改为弹窗式。
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_itemshow1-v2.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_itemshow1-v2.png)
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U1_itemshow2-v2.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U1_itemshow2-v2.png)
 
 
 
@@ -83,21 +82,22 @@
 
 综合以上意见，部分修改的UI设计如下所示：
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U2_home.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U2_home.png)
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U2_menu.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U2_menu.png)
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U2_gouwuche.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U2_gouwuche.png)
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U2_details.png)![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U2_review.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U2_details.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U2_review.png)
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U2_order_list.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U2_order_list.png)
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U2_order_check.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U2_order_check.png)
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U2_order_take.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U2_order_take.png)
 
-![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/assets/UI/U2_reduction.png)
+![home](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/UI/U2_reduction.png)
 
 
 
