@@ -14,4 +14,4 @@
 ![lanhsh](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/logic_view.png)
 
 ## 物理视图
-![lanhsh](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/physics_view.png)
+![lanhsh](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/assets/images/Physics_View.png)
