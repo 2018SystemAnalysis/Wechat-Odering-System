@@ -73,9 +73,9 @@ qa工程师：侯舟帆、蓝海珊
 
 #### Iteration 1
 
-##### 2.1  [启动会议报告](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/meeting_records/Inception.md)
+##### 1.  [启动会议报告](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/meeting_records/Inception.md)
 
-##### 2.2  每周任务kanban
+##### 2  每周任务kanban
   Week 4 (27/09/2018)
 
 - 客户&产品：进行产品调研
@@ -89,9 +89,9 @@ qa工程师：侯舟帆、蓝海珊
 
 
 
-​    Week 5(4/10/2018)
+​   Week 5(4/10/2018)
 
-  	开启第一次项目会议，会议主要讨论一下内容：
+  开启第一次项目会议，会议主要讨论一下内容：
 
 * 确定项目课题：扫码点餐微信小程序
 * 确定项目分工和组织形式
@@ -192,13 +192,22 @@ Week 12 (21/11/2018)
 
 Week 13 (28/11/2018)
 * UI设计：至此已完成所有UI界面设计开发，根据开会结果，修改设计风格，完善UI设计文档，更新UI设计规范日志。
-* 功能实现：由前端和后端人员共同完成API的设计，编写API规范文档，要求实现用户会员的优惠券功能。
+* 功能实现：首先根据调查，无法完成付款功能，[详细信息点击此处](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/%E8%B0%83%E6%9F%A5%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%8A%9F%E8%83%BD.md)。其次，前端和后端人员共同完成API的设计，编写API规范文档，要求实现用户会员的优惠券功能。
 
+
+
+
+#### Iteration2
+
+##### 1. [第三次会议报告](https://github.com/2018SystemAnalysis/Wechat-Odering-System/tree/master/meeting_records/Inception3.md)
+
+##### 2. 每周任务看板
 
 Week 14（5/12/2018）
+
 * UI设计：1. 修改了主页设计之后，根据小组意见，修改饮品的详情显示界面，将原来的单独页面显示改为在菜单页面的弹窗显示；
-         2. 查找真实的UI数据，应用到目前已完成的工程中，测试使用效果；
-         
+     2. 查找真实的UI数据，应用到目前已完成的工程中，测试使用效果；
+
 * 功能实现：使用真实的UI数据，应用到目前的代码里，看使用效果；
 * 系统规划：根据课程要求和项目工程代码，完成项目的功能建模报告
 
