@@ -5,5 +5,5 @@
 UI设计中使用的图标来自于网站：http://www.easybui.com/demo/font/demo.html
 
 png图片为UI设计文件导出的展示图片
-xd文件为原始UI设计文件，使用adobe XD即可打开。
+zip压缩包为xd文件，即原始UI设计文件，使用adobe XD即可打开。
 
