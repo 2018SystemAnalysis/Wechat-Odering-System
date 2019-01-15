@@ -1,4 +1,4 @@
-# Supplement Requirements
+# Supplementary Requirements
 |    时间    |  内容  | 作者  |
 | :------: | :--: | :---: |
 | 2018.12.18 | 补充明确的功能性需求  | 蓝海珊 |
