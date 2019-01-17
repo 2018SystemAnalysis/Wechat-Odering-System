@@ -64,7 +64,7 @@ qa工程师：侯舟帆、蓝海珊
 - X2 Tech/Work Report
   - [18214619-学习报告之UI设计](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/fjc_teach_report.md)
 
-  - 18214630
+  - [18214630-学习报告之前端实现](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/hjr_teach_report.md)
 
   - 18214628
 
