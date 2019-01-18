@@ -42,6 +42,7 @@
 
 ### 学习资料
 https://developers.weixin.qq.com/miniprogram/dev/index.html
+https://zhuanlan.zhihu.com/p/34373712
 https://juejin.im/post/5a3131def265da431b6d34d8
 https://www.ifanr.com/minapp/742027
 
