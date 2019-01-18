@@ -54,7 +54,7 @@ qa工程师：侯舟帆、蓝海珊
   - 7.4 [API 设计](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/API%E8%AE%BE%E8%AE%A1.md)
   - 7.5 [软件架构](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/Software%20Architecture%20Document.md)
 - 8、生产规范与指南
-  - 8.1 XX 代码规范
+  - 8.1 [代码规范](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
   - **8.2 REST API 设计规范**
 - 9、测试
   - 9.1 [测试报告](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/Test%20Report.md)
