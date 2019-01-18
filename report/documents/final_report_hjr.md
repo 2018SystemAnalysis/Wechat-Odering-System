@@ -16,7 +16,7 @@
 | Requirement Analysis        | 需求分析                             | 3       |
 | Technology learning         | 技术学习                             | 10       |
 | **Development**             | **开发**                           | **60**  |
-| UI Design                   | 前端开发                             | 25      |
+| Front End Design                   | 前端开发                             | 25      |
 | Coding                      | 具体编码                             | 30      |
 | Coding Standard             | 代码规范                             | 5      |
 | **Reporting**               | **报告**                           | **20**  |
