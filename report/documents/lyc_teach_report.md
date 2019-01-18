@@ -42,8 +42,11 @@
 
 ### 学习资料
 【1】https://developers.weixin.qq.com/miniprogram/dev/index.html
+
 【2】https://zhuanlan.zhihu.com/p/34373712
+
 【3】https://juejin.im/post/5a3131def265da431b6d34d8
+
 【4】https://www.ifanr.com/minapp/742027
 
 
