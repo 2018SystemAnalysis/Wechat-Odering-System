@@ -81,8 +81,6 @@ qa工程师：侯舟帆、蓝海珊
   - [18214608-BY](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93_%E7%99%BD%E6%9D%A8.md)
   - [18214642-LYC](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/final_report_lyc.md)
   - [18214637-LHS](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/final_report_lhs.md)
-- [X4 个人作业]()
-- [X5 项目周报KANBAN](https://github.com/2018SystemAnalysis/Wechat-Odering-System/projects)
-- [X6 项目团队协作工具TAPD故事墙地址](https://www.tapd.cn/44300314/prong/storywalls)
-- ​
+- [X4 项目周报KANBAN](https://github.com/2018SystemAnalysis/Wechat-Odering-System/projects)
+- [X5 项目团队协作工具TAPD故事墙地址](https://www.tapd.cn/44300314/prong/storywalls)
 
