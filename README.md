@@ -71,7 +71,7 @@ qa工程师：侯舟帆、蓝海珊
 
   - [18214608-学习报告之后台开发](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/by_teach_report.md)
 
-  - 18214642
+  - [18214642-学习报告之前端开发](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/lyc_teach_report.md)
 
   - [18214637-学习报告之用例建模](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/lhs_teach_report.md)
 - X3 Final Report
