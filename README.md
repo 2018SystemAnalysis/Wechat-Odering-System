@@ -38,7 +38,7 @@ qa工程师：侯舟帆、蓝海珊
     - [活动图](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/%E6%B4%BB%E5%8A%A8%E5%9B%BE.md)
     - [状态图](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/%E7%8A%B6%E6%80%81%E5%9B%BE.md)
 - - [6.3 Domian Model（领域模型）](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.md)
-  - [6.4 State Model（状态模型）](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/documents/****.md)
+  - [6.4 State Model（状态模型）](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/%E7%8A%B6%E6%80%81%E6%A8%A1%E5%9E%8B.md)
   - [6.5 估算工作量](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/%E4%BC%B0%E7%AE%97%E5%B7%A5%E4%BD%9C%E9%87%8F.md)
   - [6.6 补充需求](https://github.com/2018SystemAnalysis/Wechat-Odering-System/blob/master/report/documents/Supplementary%20Requirements.md)
 - 7、Design（设计）
